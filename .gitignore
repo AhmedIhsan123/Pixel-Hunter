@@ -1,0 +1,39 @@
+# Unreal Engine typical .gitignore
+
+# Binaries and builds
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Script/
+
+# Config and backup
+*.VC.db
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vscode/
+.idea/
+
+# Compiled data
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+*.dSYM
+
+# Ignore local files
+*.log
+*.vs
+*.DS_Store
+
+# User-specific files
+*.user
+*.opensdf
+*.sdf
+*.tlog
+*.db
